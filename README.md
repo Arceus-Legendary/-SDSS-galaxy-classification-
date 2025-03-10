@@ -41,6 +41,7 @@ Now, open http://127.0.0.1:5000/ in your browser.
 │── static/
 │   ├── style.css     # Styling for web pages
 │── requirements.txt   # Dependencies for running the project
+│── Testing.ipynb  # Jupyter Notebook (Model Testing)
 │── README.md          # Project Documentation
 
 ## Technologies Used
