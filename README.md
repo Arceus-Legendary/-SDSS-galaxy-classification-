@@ -29,7 +29,7 @@ After the model is generated, start the Flask web app:
 python app.py
 Now, open http://127.0.0.1:5000/ in your browser.
 
-## Project Structure
+## Project Structure(View In Code Format.)
 
 📂 -SDSS-galaxy-classification-
 │── app.py             # Flask backend
